@@ -146,7 +146,7 @@ Above is a scatter plot showing “Established, “Developing,” and “Rookie�
 
 For fun, I decided to see who had the biggest contract of all-time when adjusting for inflation and today’s salary cap.
 
-**Insights**: No surprise, it was Michael Jordan. What was surprising was the amount his highest contract would be worth today. In the 1996 season, his contract was worth $30mil, the most an NBA player had ever gotten paid at the time. When adjusting for inflation and today’s salary cap, that contract would have been worth an incredible **$280mil** for the 2022-23 season. The highest contract for an active player when adjusting for these attributes would have been $58mil for Steph Curry, peanuts compared to MJ’s historic contract.
+**Insights**: No surprise, it was Michael Jordan. What was surprising was the amount his highest contract would be worth today. In the 1996 season, his contract was worth ~$33mil, the most an NBA player had ever gotten paid at the time. When adjusting for inflation and today’s salary cap, that contract would have been worth an incredible **$280mil** for the 2022-23 season. The highest contract for an active player when adjusting for these attributes would have been $58mil for Steph Curry, peanuts compared to MJ’s historic contract.
 
 ### Ways the NBA is Changing
 In this section, I dive into how the NBA is changing. More NBA players are starting to come from overseas and the style of play is changing to utilize the three-pointer more. This data is useful for GMs to understand so they can make more strategic decisions when deciding to draft players or change the composition of their current roster.
@@ -173,8 +173,8 @@ The NBA is starting to attract more international players to the league, which c
 
 **Insights**: ~24% of the current players rostered are from countries outside the US, compared to ~9% in the 2000 season. It’s clear that basketball is becoming more popular, which means it is becoming more competitive for Americans to make it to the NBA. GMs should consider scouting around the globe to find the best talent instead of just focusing on the US.
 
-![Ways the NBA is Changing - Chart 8](https://github.com/paradime-io/paradime-dbt-nba-data-challenge/blob/nba-cahughes95-gmail-com/images/4G_8_NewMap.png)
 ![Ways the NBA is Changing - Chart 9](https://github.com/paradime-io/paradime-dbt-nba-data-challenge/blob/nba-cahughes95-gmail-com/images/4G_9_OldMap.png)
+![Ways the NBA is Changing - Chart 8](https://github.com/paradime-io/paradime-dbt-nba-data-challenge/blob/nba-cahughes95-gmail-com/images/4G_8_NewMap.png)
 
 The maps above show the nationalities of players in the NBA. The first map shows what it looked like in the 2000 season and the second map shows the 2022-23 season makeup.
 
@@ -188,6 +188,7 @@ The NBA has a vast amount of data that can assist GMs in making strategic decisi
 - I recommend GMs target developing players who are on the rise and some established/veteran star players to create a competitive team. It’s critical to target developing players who are outperforming their current salaries and not overspend on Superstars who may be past their prime.
 - When accounting for inflation and salary cap, Michael Jordan had the biggest contract of all time. Is he the GOAT? We’ll let the fans decide.
 - The demographics of the NBA has been changing over the past 20 years and we’re seeing a significant impact on the game itself. With more players shooting threes, it’s critical that all players are able to make long-distance shots. As the NBA attracts more international talent, more fans will come from different places as well.
+
 Thank you for taking the time to read my analysis, I’m wishing you and your team success in the future!
 
 ## Bonus
